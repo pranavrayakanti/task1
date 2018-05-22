@@ -1,0 +1,29 @@
+class moreException extends RuntimeException 
+{
+	moreException(String s)
+	{
+	super(s);
+	}
+}
+class lessException extends RuntimeException 
+{
+	lessException(String s)
+	{
+	super(s);
+	}
+}
+class Custom
+{
+	public static void main(String[]args)
+	{
+		int amount=Integer.parseInt(args[0]);
+		if(amount<2000)
+		{
+			throw new moreException("you have less amount");
+		}
+		 else if(amount==2000)
+		{
+			System.out.println("you have sufficient amount");
+		}
+}
+}

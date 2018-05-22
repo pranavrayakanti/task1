@@ -1,0 +1,22 @@
+SMAP
+viewfeedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewfeedback.jsp
+viewfeedback.jsp
++ 1 db.jsp
+db.jsp
+*L
+1,43:53
+5#1,13:96
+20,5:112
+24,4:117
+43#0,18:120
+61,5:139
+65,3:144
+68,3:147,3
+71,7:156
+82,4:168
+85,3:172
+*E

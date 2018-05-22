@@ -1,0 +1,18 @@
+SMAP
+uploaddb_jsp.java
+JSP
+*S JSP
+*F
++ 0 uploaddb.jsp
+uploaddb.jsp
++ 1 db.jsp
+db.jsp
+*L
+5,13:60
+5#1,13:72
+20,5:88
+24,4:93
+17#0,10:96
+29,88:109
+116,4:197
+*E

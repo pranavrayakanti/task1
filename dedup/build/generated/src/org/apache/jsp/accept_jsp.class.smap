@@ -1,0 +1,20 @@
+SMAP
+accept_jsp.java
+JSP
+*S JSP
+*F
++ 0 accept.jsp
+accept.jsp
++ 1 db.jsp
+db.jsp
+*L
+5,8:99
+5#1,13:106
+20,5:122
+24,4:127
+12#0,15:130
+27,40:20
+66,5:144
+73,8:152
+80,4:160
+*E

@@ -1,0 +1,9 @@
+Existing System:
+
+       In existing system, for example if anyone trying to upload any file which is like users resume and text document such files are allowed into the application which are hosted into the internet environment. If that file contains any unwanted content which is considered as spam, so such files are easily uploaded into the application,
+
+
+
+Proposed System:
+
+        In the proposed System, our application will detect if any registered user wanted to upload a file which contains some unwanted characters like spam (!,#,^,*,&). So, such files are not allowed into our application. So this is the problem which we are facing in the current existing system.
