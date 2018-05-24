@@ -15,13 +15,13 @@
 
 public class Employee {
 	
-	
+	//instances variables
 	private String firstsName="pranav";
 	private String lastName="r";
 	private static int employeeId=9;
 	
 	
-	
+	//p.constructors
 	public Employee(String firstsName, String lastName, int employeeId) {
 		super();
 		this.firstsName = firstsName;
@@ -31,7 +31,7 @@ public class Employee {
 	
 	
 	
-	
+	//d.constructor
 	public Employee() {
 		// TODO Auto-generated constructor stub
 	}
@@ -42,7 +42,7 @@ public class Employee {
 	public String primVar="I'm primitive variable printing from EmployeeClass";
 	
 	
-	
+	//method 
 	public void show(String firstsName,String lastName, int employeeId)
 	{
 	this.firstsName=firstsName;
